@@ -1,4 +1,4 @@
-# LeetCode 283 — Move Zeroes
+# LeetCode#283 — Move Zeroes
 
 **Day:** 03/100  
 **Challenge:** #DrGVishwanathanChallenge  
