@@ -1,6 +1,10 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
+        if(nums.empty()){
+            return 0;
+        ]
+            
         int candidate = 0;
         int count = 0;
 
